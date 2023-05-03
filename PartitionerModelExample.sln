@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partitioner", "PartitionerModelExample\Partitioner.csproj", "{D410CC5F-F45B-449B-B656-AAA067C5854E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatBuffers", "FlatBuffers\FlatBuffers.csproj", "{28C00774-1E73-4A75-AD8F-844CD21A064D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D410CC5F-F45B-449B-B656-AAA067C5854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D410CC5F-F45B-449B-B656-AAA067C5854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D410CC5F-F45B-449B-B656-AAA067C5854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D410CC5F-F45B-449B-B656-AAA067C5854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C00774-1E73-4A75-AD8F-844CD21A064D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C00774-1E73-4A75-AD8F-844CD21A064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C00774-1E73-4A75-AD8F-844CD21A064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C00774-1E73-4A75-AD8F-844CD21A064D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4836408-856F-4B2E-A0A3-A34ABE537901}
+	EndGlobalSection
+EndGlobal
